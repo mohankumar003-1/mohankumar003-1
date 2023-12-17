@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PEOPLE COUNTING IN DRONES](https://github.com/mohankumar003-1/people-counting-system)
 
-- 🌱 I’m currently learning about **BACKEND TECH**
+- 🌱 I’m currently learning about **REACT**
 
 - 💬 Ask me about **MACHINE LEARNING,DJANGO & JAVA**
 
