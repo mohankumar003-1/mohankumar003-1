@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋🏾‍♂️, I'm MOHANKUMAR S</h1>
-<h3 align="center">A Passionate Machine Learning enthusiast and Django Developer</h3>
+<h3 align="center">A Passionate Machine Learning enthusiast and Backend Developer</h3>
 
 - 🔭 I’m currently working on [PEOPLE COUNTING IN DRONES](https://github.com/mohankumar003-1/people-counting-system)
 
