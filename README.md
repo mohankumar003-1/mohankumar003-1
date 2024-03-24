@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [PEOPLE COUNTING IN DRONES](https://github.com/mohankumar003-1/people-counting-system)
 
-- 🌱 I’m currently learning about **BACKEND TECH** , **MERN**
+- 🌱 I’m currently learning about **BACKEND TECH** , **Gen AI**
 
-- 💬 Ask me about **MACHINE LEARNING,DJANGO & JAVA**
+- 💬 Ask me about **MACHINE LEARNING,DJANGO,NODE JS,JAVA**
 
 - 📫 How to reach me **smohankumar018@gmail.com**
 
