@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋🏾‍♂️, I'm MOHANKUMAR S</h1>
 <h3 align="center">A Passionate Machine Learning enthusiast and Backend Developer</h3>
 
-- 🔭 I’m currently working on [BUILDING MY OWN NEURAL NETWORK](https://github.com/mohankumar003-1/own-neural-network)
+- 🔭 I’m currently working on [AUTOMATIC ANNOTATIONS](https://github.com/mohankumar003-1/own-neural-network)
 
 - 🌱 I’m currently learning about **BACKEND TECH** , **Gen AI**
 
